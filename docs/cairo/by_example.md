@@ -21,4 +21,5 @@ toc: false
 - [Pointer]({{ site.baseurl }}{% link cairo/examples/pointer.md %})
 - [Data locations]({{ site.baseurl }}{% link cairo/examples/data_locations.md %})
 - [Function]({{ site.baseurl }}{% link cairo/examples/function.md %})
+- [Array argument]({{ site.baseurl }}{% link cairo/examples/array_argument.md %})
 - [Assert]({{ site.baseurl }}{% link cairo/examples/assert.md %})
